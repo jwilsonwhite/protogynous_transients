@@ -1,5 +1,5 @@
 # protogynous_transients
-Model code for the transient population dynamics of sex-changing fish. Accompanies Easter et al. (in review)
+Model code for the transient population dynamics of sex-changing fish. Accompanies Easter et al. (in press, Ecological Applications).
 
 The code can simulate two different sets of population dynamics: demographically 'open' with constant larval recruitment, and demographically 'closed' in which all recruitment is spawned within the model population. There is parallel code to produce the two sets of results.
 
